@@ -17,7 +17,7 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
-  <!-- Main -->
+  <!-- Main - edited -->
   <div id="main">
     <div class="inner">
 
